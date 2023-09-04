@@ -1,4 +1,4 @@
-package com.major.configuration;
+package com.major.controller;
 
 import com.major.service.CategoryService;
 import com.major.service.ProductService;
